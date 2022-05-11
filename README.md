@@ -1,4 +1,4 @@
-# TazweedTest
+# Tazweed Test - Interview task for Nova Labs Qatar
 An App to Schedule an Appointment
 
 Here after running ng serve 
